@@ -1,0 +1,20 @@
+# Core dependencies
+nixtlats>=0.1.0
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+requests>=2.28.0
+
+# Additional utilities
+dask>=2023.1.0
+bottleneck>=1.3.5
+pyarrow>=10.0.0
+utilsforecast>=0.0.10
+
+# Optional: For error metrics (uncomment if needed)
+# scikit-learn>=1.2.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.20.0
