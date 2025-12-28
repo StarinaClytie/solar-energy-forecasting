@@ -181,10 +181,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Your Name**
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-- Portfolio: [your-website](https://your-website.com)
+- LinkedIn: https://www.linkedin.com/in/yi-xie-172471327/
+- Email: starinaxie@163.com
 
 ## 🙏 Acknowledgments
 
